@@ -1,2 +1,12 @@
+.holder {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px; /* Adjust the gap as needed */
+}
+
+.item {
+  background-color: #f0f0f0;
+  padding: 10px;
+}
 
 /* Your CSS Code here. */
